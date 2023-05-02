@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2 years ago<br>📚 I'm currently learning a programming Language <br>🎯 Goals: Generate error-free, easy-to-read code<br>🎲 Fun fact: play with code ^^</p>
+<p align="left">📚 I'm currently learning a programming Language <br>🎯 Goals: Generate error-free, easy-to-read code<br>🎲 Fun fact: play with code ^^</p>
 
 ###
 
